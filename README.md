@@ -1,8 +1,8 @@
-## Quick and Easy PLugin for the popular "Header Fade on Scroll" effect
+## Quick and Easy Plugin for the popular "Header Fade on Scroll" effect
 
-See a demo [here](http://codepen.io/beeeees/pen/QwVEmQ):
+See a demo on [Codepen](http://codepen.io/beeeees/pen/QwVEmQ).
 
-Requires JQuery. and Hero.JS file.
+Requires JQuery and Hero.js file.
 
 Example HTML code:
 
