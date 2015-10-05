@@ -20,6 +20,3 @@ js/*.map
 .DS_Store
 *.DS_Store*
 */.DS_Store
-
-# Use npm to manage dependencies in your dev environment, but not in your deployment scripts.
-*node_modules*
