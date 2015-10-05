@@ -15,12 +15,10 @@ Example HTML code:
   </header>
 </div>
 
-<div class="full-height" style="background: blue;">
-</div>
 
 ```
 
-The `full-height` class will fit the hero's height to the browser's height, using the fullheight.js plugin. (optional)
+(Optional) Adding a `full-height` class will fit the hero's height to the browser's height, using the fullheight.js plugin.
 
 Example CSS to get you started
 
