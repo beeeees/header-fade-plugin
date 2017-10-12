@@ -2,7 +2,7 @@
 
 See a demo on [Codepen](http://codepen.io/beeeees/pen/QwVEmQ).
 
-Requires [JQuery](https://code.jquery.com/).
+Requires [JQuery](https://code.jquery.com/). Only 394b.
 
 Example HTML code. Must have `#title-fade` and `#hero-mask` to work properly:
 
